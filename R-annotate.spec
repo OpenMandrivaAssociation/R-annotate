@@ -1,10 +1,10 @@
-%bcond_without bootstrap
+%bcond_with       bootstrap
 %global packname  annotate
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
 Version:          1.32.1
-Release:          1
+Release:          2
 Summary:          Annotation for microarrays
 Group:            Sciences/Mathematics
 License:          Artistic-2.0

@@ -5,7 +5,7 @@
 
 Name:             R-%{packname}
 Version:          1.32.1
-Release:          2
+Release:          3
 Summary:          Annotation for microarrays
 Group:            Sciences/Mathematics
 License:          Artistic-2.0

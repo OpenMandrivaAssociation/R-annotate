@@ -11,7 +11,7 @@ Release:          1
 Summary:          Annotation for microarrays
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
-URL:              http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+URL:              https://bioconductor.org/packages/release/bioc/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/bioc/src/contrib/annotate_1.38.0.tar.gz
 Requires:         R-AnnotationDbi 
 Requires:         R-Biobase R-AnnotationDbi R-DBI R-xtable R-graphics
